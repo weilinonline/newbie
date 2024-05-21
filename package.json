@@ -15,7 +15,6 @@
   "packageManager": "pnpm@9.1.1+sha512.14e915759c11f77eac07faba4d019c193ec8637229e62ec99eefb7cf3c3b75c64447882b7c485142451ee3a6b408059cdfb7b7fa0341b975f12d0f7629c71195",
   "devDependencies": {
     "@electron-forge/cli": "^7.4.0",
-    "electron-prebuilt-compile": "30.0.6"
-  },
-  "dependencies": {}
+    "electron": "^30.0.6"
+  }
 }
